@@ -2,7 +2,7 @@
 [![License][license-badge]][license-url]
 [![OpenSSF Scorecard][openssf-scorecard-badge]](https://api.securityscorecards.dev/projects/github.com/icon-project/icon-bridge)
 
-# Project title
+# Integrate xCall
 
 Track and plan the integrations and usage of xCall by developers and users 
 
