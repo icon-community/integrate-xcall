@@ -1,0 +1,1 @@
+Record of [monthly meetings](https://github.com/icon-project/community/tree/main/user-groups/sustainability#meetings) for xCall integration meetings hosted by [ICON UG Sustainability](https://github.com/icon-project/community/tree/main/user-groups/sustainability)

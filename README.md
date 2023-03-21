@@ -4,7 +4,7 @@
 
 # Project title
 
-Briefly describe what your project does.
+Track and plan the integrations and usage of xCall by developers and users 
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -31,44 +31,30 @@ Briefly describe what your project does.
 
 ## Features
 
-* List project features here
+* [Journeys](./journeys/) - Developer-built experiences for testing xCall
+* [Meeting Notes](./meeting-notes/) - Record of [monthly meetings](https://github.com/icon-project/community/tree/main/user-groups/sustainability#meetings) for xCall integration meetings hosted by [ICON UG Sustainability](https://github.com/icon-project/community/tree/main/user-groups/sustainability)
+* [Templates](./templates/) - Templated code for using xCall in a dApp
+* [User Requests](./user-requests/) - Users can request new journeys or give feedback to developers
 
 #### Out of scope
 
-Optional section. Briefly clarify anything that could be considered to be in scope but are not.
-If this section is removed, please also be sure to remove it from the table of contents.
+This is a data-only repository. The frontend should be housed elsewhere, for example possibly the icon.community site
 
 ## Getting Started
 
-Simple and easy instructions on setting up your project locally.
+Clone this repo and that's it
 
 ### Prerequisites
 
-List software prerequisites here in the format of the example below.
-
-* docker
-  ```sh
-  brew install docker
-  ```
+None
 
 ### Installation
 
-List installation steps in the format of the example below.
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/icon-project/REPO-NAME.git
-   ```
-2. Install project dependencies
-   ```sh
-   yarn install
-   ```
+None
    
 ## Usage
 
-Examples of how the project is intended to be used.
-
-_For more examples, please refer to the [documentation][docs]._
+Add your journeys, meeting notes, templates, or user-requests
 
 ## Contributing
 
@@ -76,7 +62,7 @@ If you want to contribute, be sure to review the [contributing guidelines][contr
 
 We use GitHub Issues for tracking requests and bugs, and Github Discussions for general questions and discussion.
 
-The <!-- REPO --> project strives to abide by generally accepted best practices in open-source software development.
+The `integrate-xcall` project strives to abide by generally accepted best practices in open-source software development.
 
 ## License
 
@@ -87,5 +73,5 @@ Distributed under the PROJECT-LICENSE License. See [LICENSE][license-url] for mo
 [openssf-scorecard-badge]: https://api.securityscorecards.dev/projects/github.com/icon-project/REPO-NAME/badge
 [docs]: ./docs
 [contributing]: ./CONTRIBUTING.md
-[report-bug]: https://github.com/icon-project/REPO-NAME/issues/new?assignees=&labels=&template=bug.md&title=
-[request-feature]: https://github.com/icon-project/REPO-NAME/issues/new?assignees=&labels=&template=feature.md&title=
+[report-bug]: https://github.com/icon-community/integrate-xcall/issues/new?assignees=&labels=&template=bug.md&title=
+[request-feature]: https://github.com/icon-community/integrate-xcall/issues/new?assignees=&labels=&template=feature.md&title=
